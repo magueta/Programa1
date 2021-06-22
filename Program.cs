@@ -6,7 +6,7 @@ namespace Primer_Programa
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Mi primer programa");
+            Console.WriteLine("Mi primer programa"); //escribe en consola
         }
     }
 }
